@@ -10,9 +10,6 @@
 
 #--------------------------------------------------------------------------------------------------------------
 
-
-
-
 #Reading the data files of the years 2014 and 2015 respectively using "read.csv()"
 
 #LoanStats3c.csv ---> year 2014 data
